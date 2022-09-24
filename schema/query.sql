@@ -433,3 +433,4 @@ insert into article_category (
 );
 
 commit;
+
